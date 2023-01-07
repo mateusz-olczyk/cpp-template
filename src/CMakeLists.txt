@@ -1,5 +1,5 @@
 
-include(MyprojectUtils)
+include(MyProjectUtils)
 
 set(MYPROJECT_HEADERS_DIRS "${PROJECT_SOURCE_DIR}/include")
 myproject_includedirs_setup_clangformat(${MYPROJECT_HEADERS_DIRS})

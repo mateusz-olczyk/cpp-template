@@ -1,6 +1,6 @@
 include(FetchContent)
 include(GoogleTest)
-include(MyprojectUtils)
+include(MyProjectUtils)
 
 set(MYPROJECT_TEST_SOURCES
     test_lib.cpp
